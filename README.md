@@ -1,3 +1,24 @@
+PACK UP
+This is a basic React Todo app that I am customizing to be a vacation packing list that is customizable but also prepopulates for items that are always taken on a trip. 
+
+To make it more robust in the future, I would like to add categories such as clothing items (pants, tops, shoes or even outfits), miscellaneous items such as sunglasses, chargers, chapstick, ID and even trip documentation. 
+
+I'd also like to play around with the CSS and even perhaps offer themes for guys/gals or perhaps vacation types such as a beach theme, mountain theme, cruise ship, road trip, concert etc. 
+
+....and just because I love to play with CSS and animations!
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
